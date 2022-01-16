@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(0, 110, 255);
+}
+
+#container {
+  position: absolute;
+  width: 50%;
+  height: 80%;
+  top: 10%;
+  left: 25%;
+}
+
+h1 {
+  color: white;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
